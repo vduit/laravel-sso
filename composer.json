@@ -20,13 +20,13 @@
     },
     "autoload": {
       "psr-4": {
-        "VduIt\\LaravelSSO\\": "src/"
+        "Zefy\\LaravelSSO\\": "src/"
       }
     },
     "extra": {
       "laravel": {
         "providers": [
-            "VduIt\\LaravelSSO\\SSOServiceProvider"
+            "Zefy\\LaravelSSO\\SSOServiceProvider"
         ]
       }
     }
